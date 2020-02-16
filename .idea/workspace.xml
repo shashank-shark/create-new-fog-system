@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88a48c09-963a-41e9-a134-b6a83715f724" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +67,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581853158865</updated>
-      <workItem from="1581853160432" duration="1174000" />
+      <workItem from="1581853160432" duration="1460000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1581854416787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581854416787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="419" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581853384718">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="419" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1366.740@0.28.1366.740" timestamp="1581853384718" />
-    <state x="148" y="28" key="CommitChangelistDialog2" timestamp="1581854402081">
+    <state x="147" y="28" key="CommitChangelistDialog2" timestamp="1581854416526">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="148" y="28" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1581854402081" />
+    <state x="147" y="28" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1581854416526" />
     <state width="1342" height="174" key="GridCell.Tab.0.bottom" timestamp="1581854101783">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -113,5 +111,9 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state width="1342" height="174" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1581854101782" />
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2" timestamp="1581854586600">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="281" y="106" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1581854586600" />
   </component>
 </project>
