@@ -7,8 +7,6 @@ import {
     UNAUTH_USER
 } from './authTypes';
 
-import params from '../../utils/auth0/auth0-params';
-
 import Auth from './Auth';
 
 const auth = new Auth();

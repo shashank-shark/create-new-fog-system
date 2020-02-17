@@ -9,11 +9,18 @@ import {
     NavbarHeading
 } from '@blueprintjs/core';
 
+import Header from '../components/header/Header';
+import Footer from '../components/footer/Footer';
+
 class App extends Component {
     render() {
         return (
           <div>
-              Main App.
+              <div>
+                  <div className="container">
+                      {this.props.children}
+                  </div>
+              </div>
           </div>
         );
     }
