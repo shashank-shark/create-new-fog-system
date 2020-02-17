@@ -1,0 +1,8 @@
+{
+  "domain": "dev-u0mcqthi.auth0.com",
+  "clientId": "om6sDeAy6dDUh7A5CCZwAfSrhRBQ3czG",
+  "callbackUrl": "http://localhost:3000/callback",
+  "realm": "Username-Password-Authentication",
+  "apiUrl": "http://localhost:3000",
+  "scope": "openid email update:password"
+}
