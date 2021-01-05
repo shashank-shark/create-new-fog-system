@@ -10,7 +10,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "atob": "^2.1.2",
-    "auth0-js": "^9.12.2",
+    "auth0-js": "^9.13.2",
     "axios": "^0.21.1",
     "email-validator": "^2.0.4",
     "prop-types": "^15.7.2",
